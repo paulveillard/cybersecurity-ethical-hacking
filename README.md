@@ -6,7 +6,7 @@
 
 ![hacker](https://github.com/paulveillard/cybersecurity-web-hacking/blob/main/img/web-hacking-2.png)
 
-## Table of contents
+## `Table of contents`
 
    * [Books](#books)
    * [Documentation](#documentation)
@@ -20,7 +20,7 @@
    * [SSL](#ssl)
    * [Security Ruby on Rails](#security-ruby-on-rails)
 
-## Books
+## `Books`
 
    * http://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/8126533404/ The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws
    * http://www.amazon.com/Hacking-Web-Apps-Preventing-Application/dp/159749951X/ Hacking Web Apps: Detecting and Preventing Web Application Security Problems
