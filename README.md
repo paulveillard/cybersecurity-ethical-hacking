@@ -1,4 +1,4 @@
-# Cybersecurity Web Hacking
+# Cybersecurity Ethical Hacking
 
 ###### Welcome to the World of Web Hacking Cybersecurity:
 > An ongoing collection of awesome ethical hacking tools, software, libraries, learning tutorials, frameworks, academic and practical resources.
