@@ -42,14 +42,14 @@ An ongoing collection of awesome ethical hacking tools, software, libraries, lea
    * https://www.manning.com/books/making-sense-of-cyber-security - A guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy.
 
 
-## Documentation
+## `Documentation`
 
    * https://www.owasp.org/ - Open Web Application Security Project
    * http://www.pentest-standard.org/ - Penetration Testing Execution Standard
    * http://www.binary-auditing.com/ - Dr. Thorsten Schneider’s Binary Auditing
    * https://appsecwiki.com/ - Application Security Wiki is an initiative to provide all Application security related resources to Security Researchers and developers at one place.
 
-## Tools
+## `Tools`
 
    * https://spyse.com/ - OSINT search engine that provides fresh data about the entire web, storing all data in its own DB, interconnect finding data and has some cool features.
    * http://www.metasploit.com/ - World's most used penetration testing software
@@ -128,7 +128,7 @@ An ongoing collection of awesome ethical hacking tools, software, libraries, lea
    * https://gtfobins.github.io/ - gtfobins - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
    * https://github.com/HightechSec/git-scanner git-scanner - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 
-## Cheat Sheets
+## `Cheat Sheets`
 
    * http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
    * https://highon.coffee/blog/lfi-cheat-sheet/ - LFI Cheat Sheet
@@ -136,7 +136,7 @@ An ongoing collection of awesome ethical hacking tools, software, libraries, lea
    * https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/ - SQL Injection Cheat Sheet
    * https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/ - Path Traversal Cheat Sheet: Windows
 
-## Docker images for Penetration Testing
+## `Docker images for Penetration Testing`
 
    * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
    * `docker pull blackarchlinux/blackarch` [official BlackArch Linux](https://hub.docker.com/r/blackarchlinux/blackarch)
